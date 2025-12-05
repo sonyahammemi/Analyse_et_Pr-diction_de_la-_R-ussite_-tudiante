@@ -1,0 +1,10 @@
+id,age,type_bac,parcours,moyenne_bac,moyenne_s1,moyenne_s2,moyenne_generale,nb_modules_echoues,heures_travail_semaine,discipline_note_sur_5,satisfaction_parcours_note_sur_5,travail_parallele,prediction
+1,24,Sciences,Cycle Ingénieur,14.0,12.0,11.0,11.5,1,5.0,4.0,3.0,Non,1
+2,25,Mathématiques,Licence,10.0,12.0,6.0,9.0,4,0.0,2.0,2.0,Oui,0
+3,20,Mathématiques,Licence,10.0,10.0,9.0,9.5,1,0.0,2.0,2.0,Oui,0
+4,19,Mathématiques,Licence,15.0,10.0,9.0,9.5,2,0.0,1.0,2.0,Oui,0
+5,19,Mathématiques,Licence,15.0,10.0,9.0,9.5,2,0.0,1.0,2.0,Oui,0
+6,19,Sciences,Licence,10.0,10.0,10.0,10.0,1,0.0,2.0,3.0,Non,1
+7,19,Mathématiques,Licence,0.0,0.0,0.0,0.0,0,0.0,1.0,1.0,Oui,0
+8,19,Mathématiques,Licence,0.0,0.0,0.0,0.0,0,0.0,1.0,1.0,Oui,0
+9,19,Mathématiques,Licence,18.0,14.0,12.0,13.0,0,10.0,2.0,3.0,Oui,1
