@@ -12,7 +12,7 @@ The project is implemented in *Python* and uses *Streamlit* for the interactive 
 
 ## Project Structure
 
-plaintext
+```plaintext
 
 MP_PYTHON/
 │
